@@ -1,0 +1,23 @@
+p {
+   font-family: Didot, serif;
+   font-size:4em;
+   color: #FFFFFF;
+   }
+   
+p2 {
+    font-family: Lucida, Sans, Unicode, Lucida Grande, sans-serif;
+    font-size: 0.8em;
+    color: #FFFFFF}
+H1 {
+   font-family: Lucida, Monaco, Monospaced;
+   font-size: 1em;
+   color: #FFFFFF;
+   }    
+
+
+.bottom { 
+   boarder-bottom: 1px solid #FFFFFF;
+   }
+.black {
+   background-color: #000000;
+   }
