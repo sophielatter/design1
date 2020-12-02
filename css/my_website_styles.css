@@ -1,16 +1,19 @@
 p {
    font-family: Didot, serif;
    font-size:4em;
+   align-content: center;
    color: #FFFFFF;
    }
    
 p2 {
     font-family: Lucida, Sans, Unicode, Lucida Grande, sans-serif;
     font-size: 0.8em;
+    align-content: center;
     color: #FFFFFF}
 H1 {
    font-family: Lucida, Monaco, Monospaced;
    font-size: 1em;
+   align-content: center;
    color: #FFFFFF;
    }    
 
