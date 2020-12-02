@@ -28,14 +28,12 @@ body {
   width:100%;
   padding:4em;
   text-align: center;
-  align-items: center;
   float:center;
 }
 
 .button {
   display: inline-block;
   text-align: center;
-  align-items: center;
   color:black;
   background-color:#FFFFFF;
   padding:20px;
