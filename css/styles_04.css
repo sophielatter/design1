@@ -1,0 +1,19 @@
+p1 {
+   font-family: Didot, serif;
+   font-size:3em;
+   color: #70C476;
+   }
+   
+H1 {
+   font-family: Didot, serif;
+   font-size: 2em;
+   color: #DF0054;
+   }    
+
+
+.bottom { 
+   boarder-bottom: 1px solid #FFFFFF;
+   }
+.black {
+   background-color: #1A285C;
+   }
