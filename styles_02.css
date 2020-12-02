@@ -1,0 +1,20 @@
+p1 {
+   font-family: Lucida, Monaco, Monospaced;
+   font-size: 5em;
+   color: #7F7F7F
+}
+H1 {
+   font-family: Didot, serif;
+   font-size: 2em;
+   color: #480000
+   }    
+.wideleftmargin {
+    padding: 25% 5% 5% %5;
+}
+
+.bottom { 
+   boarder-bottom: 1px solid #FFFFFF;
+   }
+.black {
+   background-color: #7C0000;
+   }
