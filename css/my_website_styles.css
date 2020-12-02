@@ -27,13 +27,13 @@ body {
 .buttonrow {
   width:100%;
   padding:4em;
-  text-align:center;
+  text-align: center;
   float:center;
 }
 
 .button {
   display: inline-block;
-  text-align:center;
+  text-align: center;
   color:black;
   background-color:white;
   padding:20px;
@@ -46,5 +46,5 @@ a:link {
 }
 
 .button:hover{
-  background-color:grey;
+  background-color:#4DFF00;
 }
