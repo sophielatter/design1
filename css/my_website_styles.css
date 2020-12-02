@@ -27,11 +27,13 @@ body {
 .buttonrow {
   width:100%;
   padding:4em;
+  text-align: center;
   float:center;
 }
 
 .button {
   display: inline-block;
+  text-align: center;
   color:black;
   background-color:#FFFFFF;
   padding:20px;
