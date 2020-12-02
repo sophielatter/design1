@@ -1,0 +1,19 @@
+p1 {
+   font-family: Monaco;
+   font-size: 4em;
+   color: #D80000;
+   }
+   
+H1 {
+   font-family: Didot, serif;
+   font-size: 1em;
+   color: #742A2A;
+   }    
+
+
+.bottom { 
+   boarder-bottom: 1px solid #FFFFFF;
+   }
+.black {
+   background-color: #000000;
+   }
