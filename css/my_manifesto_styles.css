@@ -1,0 +1,29 @@
+p {
+   font-family: Times New Roman, serif;
+   font-size:3.5em;
+   text-align: left;
+   color: #FFFFFF;
+   }
+   
+p2 {
+    font-family: Times New Roman, serif;
+    font-size: 1em;
+    text-align: left;
+    font-style: italic;
+    color: #FFFFFF}
+H1 {
+   font-family: Lucida, Monaco, Monospaced;
+   font-size: 6em;
+   align-content: center;
+   color: #FFFFFF;
+   }    
+   
+   
+.bottom { 
+   boarder-bottom: 1px solid #FFFFFF;
+   }
+.black {
+   background-color: #000000;
+   }
+body {
+  background-color:black;
